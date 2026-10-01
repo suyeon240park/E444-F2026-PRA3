@@ -6,3 +6,5 @@ This repository is a clone of https://github.com/miguelgrinberg/flasky.
 It is built as part of the PRA3 assignment for learning basic Flask structures.
 
 ![alt text](image.png)
+
+![alt text](image-1.png)
