@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+tmp/
+ECE444 PRA3 Flask and Docker.pdf
